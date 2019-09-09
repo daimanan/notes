@@ -1,4 +1,4 @@
-# Development notes
+# 日常开发、学习笔记
 # https://github.com/daimanan/notes
 - ### 《币市链圈》栏目
 
