@@ -19,13 +19,13 @@ func main() {
 
 
 
-> “Hello, world"程序是指在计算机屏幕上输出“[Hello](https://baike.baidu.com/item/Hello),[world](https://baike.baidu.com/item/world)”这行字符串的计算机程序，“hello, world”的中文意思是“你好，世界。”。这个例程在Brian Kernighan(布莱恩·柯林汉) 和Dennis M. Ritchie(丹尼斯·里奇)合著的《The C Programme Language》使用而广泛流行。因为它的简洁，实用，并包含了一个该版本的C程序首次在1974年Brian Kernighan所撰写的《Programming in C: A Tutorial》出现
+> “Hello, world"程序是指在计算机屏幕上输出“Hello , world”这行字符串的计算机程序，“hello, world”的中文意思是“你好，世界。”。这个例程在Brian Kernighan(布莱恩·柯林汉) 和Dennis M. Ritchie(丹尼斯·里奇)合著的《The C Programme Language》使用而广泛流行。因为它的简洁，实用，并包含了一个该版本的C程序首次在1974年Brian Kernighan所撰写的《Programming in C: A Tutorial》出现
 >
 > ```c
 > `printf``(``"hello, world\n"``);`
 > ```
 >
-> 实际上将“Hello”和“World”一起使用的程序最早出现于1972年，在[贝尔实验室](https://baike.baidu.com/item/贝尔实验室)成员Brian Kernighan撰写的内部技术文件《Introduction to the Language B》之中：
+> 实际上将“Hello”和“World”一起使用的程序最早出现于1972年，在贝尔实验室成员Brian Kernighan撰写的内部技术文件《Introduction to the Language B》之中：
 >
 > ```c
 > `main(){``    ``extern` `a,b,c;``    ``putchar``(a);``putchar``(b);``putchar``(c);``putchar``(``'!*n'``);``}``a``'hell'``;``b``'o,w'``;``c``'orld'``;`
