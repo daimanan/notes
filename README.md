@@ -1,2 +1,6 @@
-# notes
-日常开发笔记
+# Development notes
+
+- ### 《币市链圈》栏目
+
+  - Go语言从小白到专家
+
