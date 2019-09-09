@@ -12,8 +12,14 @@ func main() {
 	fmt.Println("Hello World")
 }
 ```
+注意的问题：
 
-> “Hello, world"程序是指在计算机屏幕上输出“[Hello](https://baike.baidu.com/item/Hello),[world](https://baike.baidu.com/item/world)”这行字符串的计算机程序，“hello, world”的中文意思是“你好，世界。”。这个例程在Brian Kernighan(布莱恩·柯林汉) 和[Dennis M. Ritchie](https://baike.baidu.com/item/Dennis M. Ritchie)合著的《The C Programme Language》使用而广泛流行。因为它的简洁，实用，并包含了一个该版本的C程序首次在1974年Brian Kernighan所撰写的《Programming in C: A Tutorial》出现
+1. 包名可以和文件名不一样
+2. 程序要执行，包名必须是main，程序入口函数也必须是main()
+
+
+
+> “Hello, world"程序是指在计算机屏幕上输出“[Hello](https://baike.baidu.com/item/Hello),[world](https://baike.baidu.com/item/world)”这行字符串的计算机程序，“hello, world”的中文意思是“你好，世界。”。这个例程在Brian Kernighan(布莱恩·柯林汉) 和Dennis M. Ritchie(丹尼斯·里奇)合著的《The C Programme Language》使用而广泛流行。因为它的简洁，实用，并包含了一个该版本的C程序首次在1974年Brian Kernighan所撰写的《Programming in C: A Tutorial》出现
 >
 > ```c
 > `printf``(``"hello, world\n"``);`
